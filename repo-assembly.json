@@ -13,6 +13,19 @@
             "maintenance_version": 1,
             "git_hash": "522971789d992f2c6fbbb5f8a63301b9a21cbe3e",
             "gbn": 50300524
+        },
+        {
+            "image_identifier": "pramodhdocker/ml-runtime-jupyterlab-python3.11-cuda-pg:2024.02.1-b4",
+            "runtime_metadata_version": 3,
+            "editor": "JupyterLab",
+            "edition": "Nvidia GPU",
+            "description": "Python runtime with CUDA libraries provided by Cloudera",
+            "kernel": "Python 3.11",
+            "full_version": "2024.02.1-b4",
+            "short_version": "2024.02",
+            "maintenance_version": 3,
+            "git_hash": "522971789d992f2c6fbbb5f8a63301b9a21cbe3f",
+            "gbn": 50300524
         }
   ]
 }
