@@ -2,7 +2,7 @@
     "assembly_metadata_version": 1,
     "runtimes": [
         {
-            "image_identifier": "pramodhdocker/ml-runtime-workbench-python3.9-cuda-pg:2024.02.1-b4",
+            "image_identifier": "docker.io/pramodhdocker/ml-runtime-workbench-python3.9-cuda-pg:2024.02.1-b4",
             "runtime_metadata_version": 1,
             "editor": "JupyterLab",
             "edition": "Tech Preview",
@@ -15,7 +15,7 @@
             "gbn": 50300524
         },
         {
-            "image_identifier": "pramodhdocker/ml-runtime-jupyterlab-python3.11-cuda-pg:2024.02.1-b4",
+            "image_identifier": "docker.io/pramodhdocker/ml-runtime-jupyterlab-python3.11-cuda-pg:2024.02.1-b4",
             "runtime_metadata_version": 3,
             "editor": "JupyterLab",
             "edition": "Nvidia GPU",
