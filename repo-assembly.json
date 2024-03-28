@@ -26,6 +26,19 @@
             "maintenance_version": 3,
             "git_hash": "522971789d992f2c6fbbb5f8a63301b9a21cbe3f",
             "gbn": 50300524
+        },
+        {
+            "image_identifier": "docker.io/pramodhdocker/ml-runtime-workbench-python3.9-cuda-pg:1.0.1",
+            "runtime_metadata_version": 3,
+            "editor": "Workbench",
+            "edition": "Pramodh Edition",
+            "description": "Python runtime with CUDA libraries provided by Cloudera",
+            "kernel": "Python 3.9",
+            "full_version": "1.0.1",
+            "short_version": "1.0",
+            "maintenance_version": 3,
+            "git_hash": "522971789d992f2c6fbbb5f8a63301b9a21cbe3g",
+            "gbn": 50300524
         }
   ]
 }
